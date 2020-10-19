@@ -1,6 +1,6 @@
 # Todo App
 
-This a generic and basic Todo App devolped using flutter and concepts of Clean Architecture by Uncle Bob (Robert Martin).
+This a generic and basic Todo App developed using flutter and concepts of Clean Architecture by Uncle Bob (Robert Martin).
 In this project I explore and learn to create a full CRUD (minus D) implementing the interpretation of clean architecture provided by Reso Coder.
 
 This project is meant to be a flutter learning experience for me so errors are surely present.
