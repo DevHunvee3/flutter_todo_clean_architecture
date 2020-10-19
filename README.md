@@ -1,16 +1,17 @@
-# todo
+# Todo App
 
-A new Flutter project.
+This a generic and basic Todo App devolped using flutter and concepts of Clean Architecture by Uncle Bob (Robert Martin).
+In this project I explore and learn to create a full CRUD (minus D) implementing the interpretation of clean architecture provided by Reso Coder.
+
+This project is meant to be a flutter learning experience for me so errors are surely present.
+
+If someone comes across this project, you can use it however you want and feal free to tell me where I went wrong! XD.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Make sure you have flutter installed and running.
 
-A few resources to get you started if this is your first Flutter project:
+1- Clone the repository
+2- run ´´´pub get´´´ to get all dependencies installed
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project has a battery of unit tests you can run to see if everything is working!
